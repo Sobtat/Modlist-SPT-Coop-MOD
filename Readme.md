@@ -46,12 +46,13 @@ Ich bin mir sehr sicher, dass du das schafft.
 
 **Was brauchen wir:**
 
-1. Als Laufwerk eine SSD es geht jedoch auch eine HDD es ist jedoch die SSD zu empfählen
+1. Als Laufwerk eine SSD geht jedoch auch eine HDD zu empfählen ist aber die SSD
 2. Als Host eine Internetverbindung die bei ungefähr 20Mb/s ist.
-3. Verdammt nochmal SPT installiert!!!
-4. CPU: i7 8700k / Ryzen 7 2700x
-5. GPU: GTX 1060 / RX 580
-6. 16-32GB Ram 32GB ist jedoch zu empfehlen
+3. CPU: i7 8700k / Ryzen 7 2700x
+4. GPU: GTX 1060 / RX 580
+5. 16-32GB Ram 32GB ist jedoch zu empfehlen
+
+**Verdammt nochmal SPT installiert!!!**
 
 **Schritte als Host:**
 Das ist die VPN Variante mit der [radmin](https://download.radmin-vpn.com/download/files/Radmin_VPN_1.4.4642.1.exe) VPN 
