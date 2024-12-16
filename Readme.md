@@ -16,7 +16,8 @@ Installation
 Mit automatisches Installationsprogramm:
 
 1. Neuen Ordner erstellen auf der Festplatte (muss nicht auf der gleichen sein aber bitte nicht in den Tarkov Ordner direkt).
-2. Starte das automatische Installationsprogramm, es sollte so aussehen nur mit einem Grünen Feld ganz unten! [Unbenannt4](https://github.com/user-attachments/assets/89304b0b-6dee-4a0a-81fd-03d263e62f0a).
+2. Starte das automatische Installationsprogramm, es sollte so aussehen nur mit einem Grünen Feld ganz unten! ![Unbenannt4](https://github.com/user-attachments/assets/8843bf78-3285-4223-9290-fb467b0280a3)
+
 3. Nun kannst du es Installieren und ganz viel Spaß haben. :)
 
 Ohne automatisches Installationsprogramm:
