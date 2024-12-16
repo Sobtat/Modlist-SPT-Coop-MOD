@@ -2,7 +2,7 @@
 
 Das wichtigste zuerst SPT installieren:
 
-Anforderungen
+**Anforderungen**
 
 Escape From Tarkov (siehe Registerkarte „Versionen“ für unterstützte Spielversionen)
 
@@ -10,18 +10,18 @@ Escape From Tarkov (siehe Registerkarte „Versionen“ für unterstützte Spiel
 
 2. [.NET Runtime 8](https://go.microsoft.com/fwlink/?linkid=874338)
 
-Installation
+**Installation**
 
 *Verwenden das [automatische Installationsprogramm](https://ligma.waffle-lord.net/SPTInstaller.exe). Die manuelle Installation wird offiziell nicht mehr unterstützt. 
 
-Mit automatisches Installationsprogramm:
+**Mit automatisches Installationsprogramm:**
 
 1. Neuen Ordner erstellen auf der Festplatte (muss nicht auf der gleichen sein aber bitte nicht in den Tarkov Ordner direkt).
 2. Starte das automatische Installationsprogramm, es sollte so aussehen nur mit einem Grünen Feld ganz unten! ![Unbenannt4](https://github.com/user-attachments/assets/8843bf78-3285-4223-9290-fb467b0280a3)
 
 3. Nun kannst du es Installieren und ganz viel Spaß haben. :)
 
-Ohne automatisches Installationsprogramm:
+**Ohne automatisches Installationsprogramm:**
 
 Das automatische Installationsprogramm geht nicht so wie bei mir oder du willst einfach besonders sein? Kein Problem es geht auch Manuel.
 
@@ -30,7 +30,7 @@ Das automatische Installationsprogramm geht nicht so wie bei mir oder du willst 
 3. Inzwischen können wir uns [SPT](https://spt-releases.modd.in/SPT-3.10.3-33420-42b3d7a.7z) holen.
 4. Danach einfach alles im SPT Ordner entzippen und fertig viel Spaß. :)
 
-Wie Starte ich es?
+**Wie Starte ich es?**
 1. Starte Server.exe
 2. Starte Launcher.exe
 3. Launcher > Neues Konto erstellen
@@ -38,13 +38,13 @@ Wie Starte ich es?
 
 SPT ist nicht von mir hier die [github Seite](https://github.com/sp-tarkov) und die [Offizielle seit](https://sp-tarkov.com/) für SPT und die im Modpack benutzten Mods
 
-# Fika Setup
+## Fika Setup
 
 Jetzt kommen wir zum Teil, das uns Koop spielen lässt, und zwar [Fika](https://github.com/project-fika/Fika-Documentation).
 In den nächsten schritten, werde ich erklären wie du ja du eine eigene Lobby machen kannst und auch anderen Joinen kannst.
 Ich bin mir sehr sicher, dass du das schafft.
 
-Was brauchen wir:
+**Was brauchen wir:**
 
 1. Als Laufwerk eine SSD es geht jedoch auch eine HDD es ist jedoch die SSD zu empfählen
 2. Als Host eine Internetverbindung die bei ungefähr 20Mb/s ist.
@@ -53,7 +53,7 @@ Was brauchen wir:
 5. GPU: GTX 1060 / RX 580
 6. 16-32GB Ram 32GB ist jedoch zu empfehlen
 
-Schritte als Host:
+**Schritte als Host:**
 Das ist die VPN Variante mit der [radmin](https://download.radmin-vpn.com/download/files/Radmin_VPN_1.4.4642.1.exe) VPN 
 
 1. Als erstes Lade dir [FikaUtils](https://github.com/Lacyway/FikaUtils/releases/download/v1.0/FikaUtils.zip) herunter
@@ -91,7 +91,7 @@ Das ist die VPN Variante mit der [radmin](https://download.radmin-vpn.com/downlo
 14. Starten Nun das Spiel und stelle nach der Erstellung deines Kontos sowohl Force IP als auch Force Bind IP auf deine eigene, persönliche VPN-IP ein. Du findest diese, indem du im Hauptmenü auf F12 klicken.
 
 
-Client mit einem VPN
+**Client mit einem VPN**
 
 1. Aktuellsten Fika Release herunterladen
 2. Navigiere zum SPT Ordner und entpacke den Inhalt der eben heruntergeladenen Datei in diesen
