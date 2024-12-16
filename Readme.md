@@ -12,7 +12,7 @@ Escape From Tarkov (siehe Registerkarte „Versionen“ für unterstützte Spiel
 
 **Installation**
 
-*Verwenden das [automatische Installationsprogramm](https://ligma.waffle-lord.net/SPTInstaller.exe). Die manuelle Installation wird offiziell nicht mehr unterstützt. 
+* Verwenden das [automatische Installationsprogramm](https://ligma.waffle-lord.net/SPTInstaller.exe). Die manuelle Installation wird offiziell nicht mehr unterstützt. 
 
 **Mit automatisches Installationsprogramm:**
 
@@ -62,9 +62,9 @@ Das ist die VPN Variante mit der [radmin](https://download.radmin-vpn.com/downlo
 * Wir öffnen damit die Firewall, um den Zugriff für andere Spieler zuzulassen bitte habt immer euren ANTI Virus an und seit euch im Klaren, was ihr Installiert.
 3. Nun drücken wir 1 und enter
 
-*Ich hoffe ich muss euch nicht erklären wie ihr die VPN Benutzt oder?
+* Ich hoffe ich muss euch nicht erklären wie ihr die VPN Benutzt oder?
 
-*Gut werde ich auch nicht.
+* Gut werde ich auch nicht.
 
 4. Laden das neueste [Fika-Plugin](https://github.com/project-fika/Fika-Plugin/releases/download/v1.0.6.0/Fika.Release.1.0.6.0.zip) und den neuesten [Fika-Server-Mod](https://github.com/project-fika/Fika-Server/releases/download/v2.3.3/fika-server.zipherunter)
 5. Navigieren zu deiner SPT-Installation und extrahieren den Inhalt des Archivs in den Ordner
@@ -84,7 +84,7 @@ Das ist die VPN Variante mit der [radmin](https://download.radmin-vpn.com/downlo
 
 11. Starten den SPT.Server.exe und warte, bis der Ladevorgang abgeschlossen ist.
 
-*So sollte es aussehen, wenn es in Schritt 7 gelungen ist, mit der Beispiel-IP zu beginnen: 
+* So sollte es aussehen, wenn es in Schritt 7 gelungen ist, mit der Beispiel-IP zu beginnen: 
 
 ![Unbenannt5](https://github.com/user-attachments/assets/02275d58-3d18-480a-9a1a-a600e157cfba)
 
