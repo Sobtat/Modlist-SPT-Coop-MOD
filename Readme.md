@@ -97,7 +97,7 @@ Das ist die VPN Variante mit der [radmin](https://download.radmin-vpn.com/downlo
 1. Aktuellsten Fika Release herunterladen
 2. Navigiere zum SPT Ordner und entpacke den Inhalt der eben heruntergeladenen Datei in diesen
 3. Starte Aki.Launcher.exe und klicke auf 'Settings'
-4. Gib im URL Feld die VPN IP ein. z.b.: http://20.20.56.73:6969 (achte darauf, dass keine führenden / hinter dem Port stehen)
+4. Gib im URL Feld die VPN IP ein. z.b.: http://20.20.56.73:6969 (achte darauf, dass keine führenden / hinter dem Port stehen) **die auf Discord steht**
 5. Wenn der Client Ingame die Session erstellen soll müssen alle Verbindungen (Öffentlich und Privat) freigegeben werden wenn die Aufforderung von der Windows Firewall erscheint
 
 
