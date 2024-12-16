@@ -1,6 +1,7 @@
 # SPT Setup
 
 Das wichtigste zuerst SPT installieren:
+
 Anforderungen
 
 Escape From Tarkov (siehe Registerkarte „Versionen“ für unterstützte Spielversionen)
